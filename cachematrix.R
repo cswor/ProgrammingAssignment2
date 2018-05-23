@@ -17,7 +17,6 @@ makeCacheMatrix <- function(x = matrix()) {
 
 }
 
-
 ## Checks cache for the inv and
 ## returns the cached inv if found
 ## otherwise, solves for the inverse and caches it,
